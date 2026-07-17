@@ -2,7 +2,7 @@
  * problem -1
  * when a integer is given the output must be a roman number
  * i have used the switch case for the characters
- * The main algorithm used is a Greedy Traversal (or Greedy Scan) with a simple comparison between adjacent characters.
+ * The main algorithm used is a Greedy Traversal (or Greedy Scan) with a simple comparison between adjacent characters.....
 
 Here's the intuition:
 
