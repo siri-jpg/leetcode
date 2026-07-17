@@ -9,7 +9,7 @@ Here's the intuition:
 Traverse the Roman numeral from left to right.
 Convert each Roman symbol into its integer value.
 Compare the current value with the next value:
-If the current value is less than the next value, subtract it.
+If the current value is less than the next value, subtract it.....
 Otherwise, add it.
  */
 
